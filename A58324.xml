@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To all magistrates, teachers, schoolmasters, and people in Christendome,  out of their books, in naming the dayes, and months, and times, and observing your feasts, as followeth. To that intent is this given forth, that you may come off them, and teach your children according to the scriptures, in which you may see your teaching is different from the Jews, and Christians in old time, But according to the heathen since the apostles dayes in the apostacy. Something concerning the naming of times, dayes, and moneths, &amp;c.</title>
+            <author>R. R. (Richard Robinson), b. 1628?</author>
+         </titleStmt>
+         <extent>Approx. 28KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58324</idno><idno type="EEBO-CITATION">12644447</idno>
+  <idno type="VID">65091</idno>
+  <idno type="EEBO-PROQUEST">2264173927</idno>
+  
+            <idno type="STC">Wing R66</idno>
+            <idno type="STC">ESTC R10503</idno>
+            <idno type="OCLC">12644447</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58324)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65091)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 773:34 or 1800:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To all magistrates, teachers, schoolmasters, and people in Christendome,  out of their books, in naming the dayes, and months, and times, and observing your feasts, as followeth. To that intent is this given forth, that you may come off them, and teach your children according to the scriptures, in which you may see your teaching is different from the Jews, and Christians in old time, But according to the heathen since the apostles dayes in the apostacy. Something concerning the naming of times, dayes, and moneths, &amp;c.</title>
+                  <author>R. R. (Richard Robinson), b. 1628?</author>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons, at the sign of the Bull and Mouth near Aldersgate.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 6: R.R.</note>
+                  <note>"To all school masters ...": signed G.F.</note>
+                  <note>Appears to be a Quaker diatribe against the use of Latin &amp; Saxon gods' names in the naming of the days of the week and months of the year.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Item at reel 773:34 identified as Wing R66 (number cancelled).</note>
+                  <note>Reproductions of originals in Henry E. Huntington Library and Art Gallery and Trinity College Library, University of Cambridge.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Doctrines.</term>
+               <term type="topical_term">Youth --  Conduct of life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb facs="tcp:65091:1"/>
+            <pb facs="tcp:65091:1"/>
+            <head>TO ALL MAGISTRATES, TEACHERS, SCHOOL-MASTERS, AND PEOPLE IN <hi>CHRISTENDOME,</hi> Who Teach your Children the way of the <hi>Heathen,</hi> out of their Books, in Naming the Dayes, and Months, and times, and Observing your Feasts, as followeth.</head>
+            <argument>
+               <p>To that intent is this given forth, that you may come off them, and Teach your Children according to the Scriptures, in which you may see your Teaching is different from the <hi>Jews,</hi> and Christians in Old Time: But according to the Heathen since the Apostles dayes in the Apostacy. <hi>Something concerning the naming of Times, Dayes, and Moneths,</hi> &amp;c. <hi>And their derivations or</hi> Etymologies <hi>as they call them, which Chil<g ref="char:EOLhyphen"/>dren have been taught, and are taught out of Heathenish Authors, and from Heathenish Customs. That Parents may see, what their Children are taught, and whether they can consent that they may be so taught; and consider what benefit they reap by being taught those things, and such Authors as Treats of those things.</hi>
+               </p>
+            </argument>
+            <p>WHen Children begin to Exercise the Latin Tongue in Schools, it is required of them usually to speak Latin one to another, and also to know the Reason and Original of Words, which in the most of Heathenish words, is fetcht from Heathenish stories, Fables, and Traditions, and an Ability therein is esteemed an Excellency, as exceed<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g pleasing to the Heathenish Nature and Fancy, especially in such as are young, <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d have not been first seasoned with that which is good, and profitable, and are in<g ref="char:EOLhyphen"/>genious
+<pb n="2" facs="tcp:65091:2"/> and apprehensive, and apt to receive any thing which they are taught, but especial such things as are sutable to Nature, and pleasant to fancy, which are garnished with Eloquence, and smooth and prety expression, and with an outward Glory and Excellency of man; For which end <hi>Poetry</hi> is said to have been first invented and used among the <hi>Greeks;</hi> And that <hi>Orpheus</hi> the <hi>Greek</hi> Po<g ref="char:EOLhyphen"/>et and Musician by that means d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew the Savadge wilde People to build, and live in subjection.</p>
+            <p>And for the same end many fabulous relations in Worships, and Religion were instituted, as <hi>Numa</hi> the second King of <hi>Rome,</hi> is said to have done, leaving many adorations and Rites, and Traditions, which he himself did not believe, but to suit the Peoples superstitious minds, and to subject them; And as the latter <hi>Romans</hi> have done in their Images, Legends or stories of their Saints, singing service and other outward, Visible, Vain, Glorious, Man-pleasing Worships, and Sermons made for itching ears, mixing with those the old Histories and fictions of the <hi>Heathen,</hi> and fancies o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Poets,</hi> and Sentences out of the <hi>Phylosophers;</hi> And so brought up Children in the exercise of these things, because they were agreeable to the multitude, and came to be admired and in request, and taught them to make Orations and Poems, in imitation of the Heathen <hi>Orators and Poets,</hi> containing the same kind of matter, and trained them up in that exercise, by continuance whereof they might become able to write, and compose, and invent a Sermon, onely with this diffe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence, that they should take a Text out of the <hi>Bible,</hi> and with the stuff that they had got out of these and other Authors to paint some of the Bibles m<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter, and mixt the Saints words and the Heathens words, and their own words and inventions together, which was the ripe fruit of that which was sown at School.</p>
+            <p>Now that Paren<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s may taste of that which their Children drink of in their <hi>Latin</hi> and <hi>Greek</hi> Authors, a few of those things, otherwise nonfit to be mention<g ref="char:EOLhyphen"/>ed, may be instanced, which they have occasion to come to the knowledge of, and to use at the first, in the <hi>Latin</hi> Tongue; for when they begin to speak <hi>Latin,</hi> and have occasion to speak of the dayes of the Week, as when they ask one ano<g ref="char:EOLhyphen"/>ther, when must we repeat such and such a thing, then they must answer in <hi>La<g ref="char:EOLhyphen"/>tin, Die Martis, die Venetis, die Saturni,</hi> &amp;c. That is, on <hi>Mars day, Venus day, Saturn's day, Tuesday, Friday, Saturday;</hi> Now they must know the reason and derivation of these words and dayes, and must a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k one another of them, and if they cannot tell, perhaps they must have the <hi>Ferula</hi> and be beaten, or be ashamed as overcome, and he that can tell is praised, and glories in it; So the younger Schollers going to ask of the Elder that have read the Authors, they come to tell them those things which they have learned, and by o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>casion thereof, exercise themselves with relations of many filthy obscene tales, and Heathenish sables and feigned wonders, and foolish fictions and actions, which young wan<g ref="char:EOLhyphen"/>ton wits are apt to delight in; as suppose as follows,</p>
+            <p>The younger askes, <hi>when we say we must repeat our weeks work upon Friday,</hi> we by, <hi>Die Veneris; why is this day called so,</hi> and what is <hi>Venus</hi> that it is of the <hi>Feminine Gender?</hi> and <hi>Die Martis</hi> on <hi>Tuesday, Martis</hi> is of the <hi>Masculine Gender,</hi> and <hi>Die Mercury</hi> on <hi>Wednesday</hi> is so, and <hi>Die Jovis</hi> on <hi>Thursday,</hi> and <hi>Die Saturni</hi> on <hi>Saturd<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y;</hi> why are these of the <hi>Masculine,</hi> and <hi>Venus</hi> of the <hi>Feminine? Give me a reason of this thing.</hi>
+            </p>
+            <p>The Elder Scholer answers him, because <hi>Venus</hi> was a <hi>Goddesse,</hi> as in the <hi>Grammar</hi>
+               <pb n="3" facs="tcp:65091:2"/> lesson, she is called the <hi>Goddesse of Love;</hi> And <hi>Mars</hi> was a god, as thou knows, there he is called the <hi>God of Warr,</hi> and the rest that thou namedst are <hi>Masculines,</hi> because they were <hi>Gods.</hi>
+            </p>
+            <p>The younger askes, <hi>what is a Goddesse, and why are those called Gods? What, are there many Gods then, that every day in the merk hath a god, if Sol and Luna be gods too, then there are seven gods, are there not?</hi> The Elder answers, a Goddesse is a woman god, so <hi>Venus</hi> and <hi>Luna</hi> are said to have been women, and afterward by the Hea<g ref="char:EOLhyphen"/>then came to be worshipped as gods. For <hi>Venus</hi> was a beautiful Whore, and was loved by <hi>Mars,</hi> whom <hi>Vulcan</hi> her husband, <hi>the god of Fire,</hi> the <hi>Smith-god,</hi> took to<g ref="char:EOLhyphen"/>gether naked in his net, and brought in all the other gods and goddesses to see them lie naked together, that they might laugh at them, as <hi>Ovid</hi> the Poet <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rites, and as thou shalt find in his verse in the <hi>Grammer lesson▪</hi> So that <hi>Mars</hi> was a <hi>Male god,</hi> whose day is <hi>Tuesday,</hi> and <hi>Venus</hi> a <hi>Female god</hi> or goddesse, <hi>Friday,</hi> as also <hi>Luna</hi> the Moon, <hi>Munday,</hi> which was a <hi>Female god</hi> or woman, and was worshipped under the name of <hi>Phoebe,</hi> and <hi>Diana</hi> the huntresse which <hi>Ovid</hi> writes <hi>Acteon</hi> saw naked amongst her companions, and therefore she turned him into a Sack, and made his own dogs devour him, so that the name of that day which was dedicated to her, is with a word of the <hi>Feminine Gender Female.</hi> But the day of the Sun <hi>Sunday</hi> is with a word of the <hi>Masculine Gender,</hi> for that day was consecrated to the <hi>Sun,</hi> who was worshipped under the name of <hi>Phoebus</hi> or <hi>Apol<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> which in the <hi>Grammer lesson</hi> is called the <hi>god of Wisdom,</hi> and <hi>Poetry,</hi> and <hi>Medi<g ref="char:EOLhyphen"/>ci<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</hi> as in <hi>Ovid,</hi> who there tells how he would have ravished <hi>Daphne,</hi> but that <hi>Dian<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> his sister whose companion she was, turned her into a <hi>Laural Tree;</hi> So that he was a man, and so the name whereby the day is named is <hi>Male;</hi> So is <hi>Saturn,</hi> whereof <hi>Saturday</hi> hath its name, for he was a man whom the <hi>Poets</hi> writ to have married his Sister, and to devour his Children, and to have cut off the Geniral members of his Father, and thrown them into the Sea, whence sprung <hi>Venus,</hi> as thou shalt read in the <hi>Grammar lesson,</hi> whence she is called in Greek <hi>Aphrodite,</hi> whence the moneth called <hi>April</hi> is said to be der<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved, of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Spuma,</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth; for they say, of that was she bred, and coming out of the Sea in the I<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed <hi>Cyprus,</hi> where she had a Temple and was worshipped, she was called <hi>Cy<g ref="char:EOLhyphen"/>p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> which word thou must have need of for thy verses, when thou comes to make yeele, and many such like words, if thou wilt be a good Poet accounted as <hi>Delphecus</hi> for <hi>Apollo</hi> before named, which word is derived of <hi>Delphos</hi> which doth signifie <hi>a Womb,</hi> because that the god or spirit that inspired that priestesse or prophetess (which is a woman prophet, and therefore <hi>Sacerdos</hi> is of the <hi>Femi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#keyers" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> gender</hi> as woll as the <hi>Masculine</hi>) gave forth answers or Oracles from her <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omb in <hi>Greek</hi> verse; And <hi>Mercury</hi> to whom was dedicated the day called <hi>Wednesday</hi> was a man, and afterward called him the <hi>god of theft and Gra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> and the messenger of the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gods, and when you make verses, you must give him such termes and Epithites as <hi>crafty and deceitful,</hi> &amp;c. for he was begotten in theft of <hi>M<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> (to whom is atributed one of the seven Stars, and one of the Months called <hi>May</hi>) by <hi>Jupiter</hi> the father of gods, or <hi>Jove</hi> which they derive from <hi>Ju<g ref="char:EOLhyphen"/>v<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s Pater a helping father,</hi> of whose th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>evish whoredoms and Ravishments issued many of the gods, and whereof the Poets have a la<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ge field and subject for their Poesies, and you that must imitate them for your p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ems and verses; and so <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<g ref="char:EOLhyphen"/>wards he was worshipped as King of the gods, because he banished and shut up in Hell his father <hi>Saturn,</hi> who had swallowed a stone or Image of a Child in steed
+<pb n="4" facs="tcp:65091:3"/> of him, as they feign, this is the Author of the day called <hi>Thursday,</hi> and <hi>Juno</hi> was his Q<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een of gods, of whom the Moneth <hi>June</hi> is named.</p>
+            <p>Thus People are your Child<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en Taught the reason of the names of the dayes and moneths from the <hi>Latin</hi> and <hi>Greek</hi> Authors; Now consider whether you can plead for it, that your Children should be taught to name the dayes after the names of these gods of which these things are related in honour of such gods as these, of which such filthy things and idle foolish fictions are sung by their Heathenish Poets and worshippers; If ye deny it, then why do ye your selves teach them to name the dayes and months after them in <hi>English?</hi> For, <hi>Sunday, Munday, Tuesda<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Wednesday, Thursday, Friday, and Saturday,</hi> are the like or the same in <hi>English;</hi> For the <hi>Saxons</hi> from whom these names came, when they came into <hi>England</hi> were Heathens, and Worshippers of the Sun and Moon, and the <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lanets, as the rest of the Heathen, which they imitated and followed, and so had the <hi>Suns day,</hi> and <hi>Moons day,</hi> &amp;c. And as the <hi>Babylonians</hi> made an Image of <hi>Bell</hi> or <hi>Belus,</hi> or <hi>Baal</hi> their King after his death in memory of him, and ho<g ref="char:EOLhyphen"/>noured it, and came to offer sacrifices to it as a god, and the <hi>Greeks</hi> like them made the Image of their <hi>Jupiter,</hi> and the <hi>Latines</hi> of their <hi>Janus</hi> with two faces; and made him god of the year, and honoured him with the first of their moneths, and called it after his name <hi>January,</hi> which ye yet call so, and lets your Children call it so. So the <hi>Saxons</hi> did to their leader <hi>Tuisco,</hi> which they write did lead them from the Tower of <hi>Babel,</hi> and was chief Ruler of the <hi>Ger<g ref="char:EOLhyphen"/>man</hi> Nation, who in honour of him after his death, called <hi>Tuisco</hi> his day, which ye and your children call <hi>Tuesday;</hi> their <hi>Mar's day,</hi> because that <hi>Mars</hi> is over warrs and contentions; And of <hi>Wooden</hi> another of their Captains, their <hi>Mercu<g ref="char:EOLhyphen"/>rye,</hi> for there were many <hi>Mercuries,</hi> they made a god and worshipped him, and named one of their dayes after him <hi>Wodensday,</hi> Wednesday as you &amp; your Children call it; And their <hi>Jupiter,</hi> they called <hi>Thor,</hi> for his Image wore on his head a Crown of Gold, &amp; round about were set twelve bright Golden Stars, and they were per<g ref="char:EOLhyphen"/>swaded that being displeased, he did cause Lightening and Thunder; This answers to the <hi>Greeks Zeus,</hi> and <hi>Latins Jove,</hi> whom they called king of gods, and was at<g ref="char:EOLhyphen"/>tended with twelve Celestial gods, and caused <hi>Thunder.</hi> And so after this <hi>Thor</hi> they named his day <hi>Thursday,</hi> as ye and your Children do; And so ye do <hi>Friday</hi> of <hi>Friga</hi> their Idol, their <hi>Venus,</hi> for they reputed her the maker of love and plea<g ref="char:EOLhyphen"/>sure, and accounted her day the day of gladnesse and wooing; And ye yet re<g ref="char:EOLhyphen"/>tain <hi>Saturday</hi> of <hi>Saater</hi> another of their Idols, which by his Image appears to have been the same with <hi>Saturn</hi> the devourer of Children, and for that was <hi>shut up in He<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l,</hi> as is said, and the same with <hi>Molech</hi> to whom the Jewes sacri<g ref="char:EOLhyphen"/>ficed Children and burnt their sons and daughters unto Devils. So see what gods (or devils) you and your Children do make mention of and honour by calling your dayes and Months after them, such as <hi>Saturdays father,</hi> and of the Moneth <hi>February</hi> which is so called of <hi>Februus,</hi> a name of <hi>Pluro the god of Hell,</hi> to whom they sacrificed in that moneth and had his feastival dayes called <hi>Febr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s;</hi> and sacrificed to his Queen <hi>Proserpine</hi> the queen of <hi>Hell,</hi> and offered and used <hi>Tapers and Candles,</hi> which afterwards the Christians as is said, thinking to convert to a better use offered to the <hi>Virgin Mary</hi> called by them the Queen of <hi>Heaven,</hi> and at her <hi>Masse</hi> offered <hi>Candles;</hi> And so that time ye and your Children call yet <hi>Can<g ref="char:EOLhyphen"/>dlemasse,</hi> and in stead of the feasts of that <hi>Saturn</hi> and their furious drunken feasts of their god of Wine <hi>Bacchus,</hi> they observed the riotous and revelling times of
+<pb n="5" facs="tcp:65091:3"/> Shrovetide, and <hi>Christmasse,</hi> and exercised sports and games, and invented playes with the Devil in them, <hi>Lords of misrule, Ma<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ks and Monstruous Vizards,</hi> like <hi>Mar<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>n</hi> in whose times they are said to have begun, which the <hi>Saxons,</hi> of whom c<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e the English, soon after imitated; &amp; instead of their Heathenish Temples set up Churches which are the <hi>Masse houses,</hi> which now the Protestants call <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Church; And <hi>Diana's Temple</hi> became <hi>Pauls Church</hi> in <hi>London;</hi> And their <hi>Easter,</hi> which is i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the moneth called <hi>March</hi> became the Christians <hi>Easter,</hi> and so you and your Children call it.</p>
+            <p>Are these sound and wholsome words, hath the Scriptures such? Is this good communication? Are these good customes or good manners? Or do they not corrupt good manners? Do ye well in giving your Children these Books? Is this good learning of the Tongues? Or is not the tongue exercised in these things set on fire of Hell, and sets on fire the course of Nature, and is in a world of In<g ref="char:EOLhyphen"/>iquity? Consider what you send your Children to School for, and what you would have them to learn, and what profit you expect they should gain, and what kind of knowledge you would have them attain to; Is it the storyes and fables, and fictions, and transformations, and seigned miracles, and ravishments, and Ioyes, and fancies, and furies, and contentions, and genea<g ref="char:EOLhyphen"/>logies of the Heathens <hi>Goddess</hi> and <hi>Goddesses,</hi> and the rest of their acts and monu<g ref="char:EOLhyphen"/>ments, that you would have your Children learn and understand, and get into their memories and fancyes to be exercised about, while in the mean time you call them Christians, that in their Baptism did <hi>promise to forsake the Devil and all his works,</hi> and yet you give them the works of Devils to exercise themselves in for their work; For that which they call their exercise in <hi>School,</hi> when it is most and fineliest fraught with the composure of the works of those <hi>Divels,</hi> it is a<g ref="char:EOLhyphen"/>mongst Scholars accounted the best and finest exercise, and most plausible and praise worthy, and shews the finest wit and fancy, and the greatest reading, and such a one is called a fine <hi>Poet,</hi> or <hi>Orator,</hi> or <hi>good Scholer,</hi> or of rare <hi>invention.</hi> May they not attain to the knowledge of the Tongues without these? And doth the Ignorance of these, abate any thing from the dignity of Speech? Is it any thing but the Ignorance of evil? And is not that good to be ignorant of that which is evil? Is not the speech and mentioning and memory of these things to fail, and with the Jewes? Or are they to be continued and propa<g ref="char:EOLhyphen"/>gated in Children, and set up and nourished in the finest wits, to bring forth such fruits as they have done in the whole World? Is this good Education and bringing up of Children, that are called Christians, and the Children of Christi<g ref="char:EOLhyphen"/>ans? If you say <hi>we send them not for Religion, but to learn the Languages, that they may be serviceable in the Common-wealth; And so they may learn the Speech, and not <gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>rd the matter?</hi> Answer, That is denied, for the Speech cannot be learned and understood, without the understanding of the matter and sence, and they that are not capable of the one are not capable of the other, and they that are apt to apprehend the Speech are more apt to apprehend such matter, as is said afore. And in so saying, ye go against your own Rule, Authority and examples for those things; For in the preface to the Grammar, Masters are exhorted <hi>to <gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch Children at the first, some little Book containing not only the Elegance of the Tongue, but also some good plain lesson of Godlinesse and Honesty.</hi> And the Councel of <hi>Queen Elizabeth</hi> sayes <hi>that the Heathen Poets being taught in Schooles, tends to the nourish<g ref="char:EOLhyphen"/>ment of vice, rather than the advancement of Vertue;</hi> And so gave command that
+<pb n="6" facs="tcp:65091:4"/> in stead thereof <hi>Orlands</hi> Book, in regard of the matter as well as the verse, should be taught and learned in Schools. So that these Common-wealths men, did not think it to be good for the Common-wealth to learn the <hi>Heathen F<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> works, and the Christians before the Apostacie also rejected them; if therefo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e you plead for them; And would have them taught, you discent from your o<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Rule for teaching, and your Authority, and your best examples, The Anti<g ref="char:EOLhyphen"/>ent Christians, and plead for that which was set up again in the time of Apo<g ref="char:EOLhyphen"/>stacy, and hath poisoned all Christendom in <hi>Schooles</hi> first, and after in <hi>Colledges.</hi> Now see who is most like to poison your Children, those that teach such things, or those that keep to sound and wholesome words.</p>
+            <closer>
+               <signed>R. R.</signed>
+            </closer>
+         </div>
+         <div type="tract">
+            <head>To all School-masters, Priests, and Teachers, and Ma<g ref="char:EOLhyphen"/>gistrates, that be Christians.</head>
+            <argument>
+               <p>Whether or no the way of the Heathen this hath not been that ye have lear<g ref="char:EOLhyphen"/>ned, and do teach in your Schooles to this day; Therefore to you all is this paper, that ye may see how ye be out of Scriptures, and have not learned and taught your Chrildren according to the Scriptures of Truth, nor according to the Jews, nor the true Christians, before the Aposta<g ref="char:EOLhyphen"/>cy, in the dayes of Old, among the Apostles; But according to the Heathen. Now number your selves, the Dayes, and the Moneths, and the Fathers of them.</p>
+            </argument>
+            <p>THe first day, <hi>Sunday,</hi> who was Sundayes Father, <hi>Phoebus the god of the S<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, or the planet of the Sun, whose Image the Saxons made and worshipped;</hi> the second day <hi>Munday, Phoebe or Diana, the Goddesse of the Moon, and the Saxons Idol;</hi> The third day <hi>Mars</hi> the god of War, and <hi>Tuisco</hi> the <hi>Saxons</hi> Idol, <hi>Tuesday;</hi> The fourth day, <hi>Mercury</hi> the god of <hi>Craft,</hi> and the Idol <hi>Wooden, Wednesday,</hi> The fifth day, <hi>Jupiter</hi> the Father of the Heathen god<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and the Idol <hi>Thor, Thursday;</hi> The sixth day, <hi>Ve<g ref="char:EOLhyphen"/>nus</hi> the goddesse of Love, and the Idol <hi>Friga, Friday;</hi> The seventh, <hi>Saturn,</hi> shut up in <hi>Hell,</hi> and the Idol <hi>Saater, Saturday.</hi>
+            </p>
+            <p>Of the first moneth <hi>March, Mars</hi> the god of Warr; of the second <hi>April, Venus</hi> the goddesse of Lust; the third <hi>May, Maia,</hi> the Mother of <hi>Mercury,</hi> the Heathen god; the fourth moneth <hi>June,</hi> of <hi>Juno,</hi> the Queen of the Heathen gods; the fifth moneth <hi>July,</hi> of <hi>Julius</hi> who was made one of their own inferiour gods, the sixth moneth <hi>August,</hi> of <hi>Augustus,</hi> another of those their <hi>Minor gods,</hi> the seven<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Eighth, Nineth, and Tenth moneths were instituted by <hi>Romulus</hi> the builder of <hi>Rome;</hi> the Eleventh moneth by his Successor, called <hi>January</hi> of <hi>Janus</hi> their god, and the Twelfth; <hi>February</hi> of <hi>Februus,</hi> the name of the <hi>god of Hell.</hi>
+            </p>
+            <p>Now ye that go under the name of Christians have both that name, and are found in these goings of the wayes of the Heathen, and not come so far as the wayes of the Jews, who were not by the command of God to walk in the wayes
+<pb n="7" facs="tcp:65091:4"/> of the Heathen; And so of the Christians short, which followed Christ, who <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the end of the Jewes, which both Christians and Jews differ from you Apo<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>te Christians which have that name; And they differ from you and the Plea<g ref="char:EOLhyphen"/>the<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, who calls the dayes, <hi>First, Second, Third, Fourth, Fifth, Sixth, and Se<g ref="char:EOLhyphen"/>venth,</hi> and calls the moneths twelve, 1, 2, 3, 4, 5, &amp;c. Therefore like whom do you teach your Children, and whose Books have been your Exam<g ref="char:EOLhyphen"/>ples, and which have ye practized and followed? And whose writings have you most delighted in, and whose have been to you the most mouthed, the wri<g ref="char:EOLhyphen"/>tings and practices of the Jews and Christians, or the Heathen, which ye may s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y is our native Country and our Fathers house, whose Language and Speech ye have loved best; And what tell you us of the Christians of Old time, how they named the Dayes and the Moneths, or the Jews either who was taught by the Lord God, and directed by <hi>Moses</hi> the Prophet of God, who to name them? We will follow the counsell of our Old Fathers, <hi>Tuise<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>Woden, Sater,</hi> and <hi>Thor, Saturn,</hi> and <hi>Jupiter,</hi> and <hi>Mars,</hi> and <hi>Mercury,</hi> and <hi>Appollo,</hi> &amp;c. Do you think that <hi>Moses</hi> and the Christians of Old, and the Apostles were wiser then these? If these had not been good wayes, and good Teaching, our School-masters, and Mi<g ref="char:EOLhyphen"/>nisters, and Magistrates, would have had them down ere now; who speaks against them, but a company of giddy headed people, which ye call <hi>Penaticks</hi> that runs after the Christians of Old, which lives in the end of <hi>Moses,</hi> which troubled our <hi>Diana</hi> in Old time, and some of our <hi>Poets</hi> mocked at them, as one <hi>Paul,</hi> who called the dayes not after our Fathers names: And what do you tell us of fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st day, 2d. day, first Moneth, 2d. Moneth, contrary to our Fathers mentioned in the Paper. And some people will say, that they send their Children to School to learn man<g ref="char:EOLhyphen"/>ners too; And if they be not taught to Scrape, Curtsie, and Cap, they are rea<g ref="char:EOLhyphen"/>dy to say they are not taught good manners, and that they will say of friends that Teaches them, who can distinguish the good manners from such things; and not to observe such things, they call it undecent, and calls them unmannerly; And that they want Modesty that honours not a man, or woman with such things, and call them impudent that goes before a rich man, or not observing the custo<g ref="char:EOLhyphen"/>mary complements and <hi>doing their honours</hi> as they call it, and they that do it, they call them <hi>well bred,</hi> &amp;c. And they that do not <hi>ill bred.</hi> Now this again is con<g ref="char:EOLhyphen"/>trary both to the Scripture, and their own rule, to restraine and limit good man<g ref="char:EOLhyphen"/>ners, Modesty, Decency, and honour to such things; as to <hi>Cap, Scrap,</hi> and <hi>Curtsy,</hi> &amp;c. And to place it in those things, for the words themselves do bear another thing; and some Books and Heathenish Authors themselves that the Pa<g ref="char:EOLhyphen"/>rents and School masters do give the Children to learn, do not place their ho<g ref="char:EOLhyphen"/>nour and decency, and modesty, and manners in that; And they cannot say that their chief Author of good manners did call it any good manners at all to put off the <hi>Hat,</hi> or that he used to do so, or that it was done, after the manner of the <hi>Romans</hi> (nor of the <hi>Babylonians</hi> neither) and they were the men that were re<g ref="char:EOLhyphen"/>nowned and honoured through the World, and called manners <hi>Mores,</hi> another thing, and in their tongue is used for <hi>conditions,</hi> and calls a well conditioned youth, a well mannerd youth, and an ill conditioned youth, ill mannerd, and call<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> manners the same that he calls Offices or Duties, and those he does not place in doing their <hi>Congyes, Curtsyes, Hats, Scrapings,</hi> &amp;c. as they now use; But in the exercise of all Vertues, Prudence, Justice, Fortitude and Temper<g ref="char:EOLhyphen"/>ance, &amp;c. And all honesty, and that he calls decency and decent, which sig<g ref="char:EOLhyphen"/>nifici
+<pb n="8" facs="tcp:65091:5"/> comely. and that which doth become one, and that whatsoever i<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ho<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>st, is comely; And that all men would admire and love honesty, if it could <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> seen with eyes (<hi>Hats</hi> and <hi>Scrapings</hi> are seen enough) which is hono<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rable for honesty and honour have relation, and are both derived of charge or weight, as in other Tongues also; So that lightnesse and vapouring and compleme<gap reason="illegible" resp="#keyers" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and light fashions too, which is now accounted Gallantry and Decency, are <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> so Honourable nor Comely, nor Modest, for they are out of the Moderation which both comes of a word which signifies <hi>Measure;</hi> And to do or use thing<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of measure, without measure, there is modesty, moderation lost, and tem<g ref="char:EOLhyphen"/>perance, where there is no bridling, and that is ill breeding.</p>
+            <p>And we see that the heads of the Genty, heads and great mens manners, Breeding, Decency and Comlienesse, and Modesty and honours, lyes in doff<g ref="char:EOLhyphen"/>ing <hi>Hats</hi> one to another, <hi>Scraping</hi> one to another, and <hi>Curtsying</hi> one to another and saying the word <hi>you</hi> one to another, which they that do not are <hi>Fo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ls, Idiots, Clowns,</hi> and ill bread; not saying the word <hi>You</hi> to one, not <hi>Scraping,</hi> not <hi>Curt<g ref="char:EOLhyphen"/>sying,</hi> not <hi>Dossing</hi> the <hi>Hat,</hi> puts them besides all their Religion, and that which they have been taught in their teaching Books, what is good manners, Modesty, and what is honour; so contrary to their own rule they have gone and degenera<g ref="char:EOLhyphen"/>ted. So this is for people to consider, and minde before they act; Read over the Scriptures that Teaches of those things, and their own teaching Boo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s; Whether a man may not be truly Honourable, Comely, Decent and Modest, and yet never doff the <hi>Hat,</hi> nor <hi>Scrape</hi> with the Leg, nor <hi>Curtsy,</hi> nor say the word <hi>You;</hi> Which is the Worlds Manners, and Decency, and Modesty, and Comelinesse.</p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON. Printed for <hi>Thomas Simmons,</hi> at the Sign of the Bull and Mouth near <hi>Aldersgate.</hi> 1660.</p>
+            <pb facs="tcp:65091:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
